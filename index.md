@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+### Personal Information
 
-You can use the [editor on GitHub](https://github.com/YuZhang2019/yuzhang2019.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Name: Yu Zhang
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+E-mail: zhyuapply2019@yeah.net
 
-### Markdown
+Tel: +86 18373152152
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Address: No.932 South Lushan Road, Changsha, China
 
-```markdown
-Syntax highlighted code block
+### Education
+
+Central South University (CSU), Changsha, China
+
+*Bachelor of Science in Statistics, **GPA: 3.77/4.0**
 
 # Header 1
 ## Header 2
