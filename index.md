@@ -43,9 +43,29 @@ Ernst & Young, *Conasultant Intern*, Shenzhen, China
 
 - Advised Hubei Changjiang Publishing Group Co., Ltd. and Tianwen Digital Media Technology (Beijing) Co., Ltd. on the enhancement in the terms of development strategy, information system, internal information transfer and investment management through collecting samples and interviews
 
+### Selected Projects
 
-1. Numbered
-2. List
+1.Data Mining Project: Application of Naive Bayesian Models
+
+- Realized the learning and prediction of Naive Bayesian Models that based on maximum likelihood estimation and Bayesian estimation using R language, and applied to marriage problems
+
+2.Multivariate Statistical Analysis & Regression Analysis
+
+- Conducted factor analysis, cluster analysis, linear discriminant analysis, and support vector machine using R for the construction and classification of urbanization level indicator system
+
+- Conducted partial least squares regression, LASSO regression in R to select over 700 independent variables
+
+3.Econometrics & Time Series Analysis
+
+- Established a simultaneous equations model based on multiple regressions and a damped exponential model based on panel data in Eviews to study related influencing factors and decay laws of the daily box office results
+
+- Established an ARMA model (using AIC and ESACF to determine model order) in R to identify, estimate, diagnose and predict the time series of urban employment population from 1952 to 2016
+
+### Skills And Others
+
+Technical Skills: MATLAB, R, Python, Oracle, Lingo, Eviews, SPSS
+
+Interests: Yoga, Badminton, Dancing
 
 **Bold** and _Italic_ and `Code` text
 
@@ -57,7 +77,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuZhang2019/yuzhang2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
