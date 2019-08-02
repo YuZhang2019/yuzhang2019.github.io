@@ -12,13 +12,13 @@
   </tr>
 </table>
 
-### Education
+## Education
 
 Central South University (CSU), Changsha, China
 
 - Bachelor of Science in Statistics, **GPA: 3.77/4.0**
 
-### Research Experience
+## Research Experience
 
 1.Optimizing Regional Emergency Resource Allocation, *Reseach Assistant*
 
@@ -41,13 +41,13 @@ Central South University (CSU), Changsha, China
 - Compared acoustic emission test data with stochastic simulation in MATLAB to check the equation and the fitting results are excellent
 - Calculated the b value before and after amplitude attenuation with different methods and discussed the b value
 
-### Work Experience
+## Work Experience
 
 Ernst & Young, *Conasultant Intern*, Shenzhen, China
 
 - Advised Hubei Changjiang Publishing Group Co., Ltd. and Tianwen Digital Media Technology (Beijing) Co., Ltd. on the enhancement in the terms of development strategy, information system, internal information transfer and investment management through collecting samples and interviews
 
-### Selected Projects
+## Selected Projects
 
 1.Data Mining Project: Application of Naive Bayesian Models
 
@@ -65,7 +65,7 @@ Ernst & Young, *Conasultant Intern*, Shenzhen, China
 
 - Established an ARMA model (using AIC and ESACF to determine model order) in R to identify, estimate, diagnose and predict the time series of urban employment population from 1952 to 2016
 
-### Skills And Others
+## Skills And Others
 
 Technical Skills: MATLAB, R, Python, Oracle, Lingo, Eviews, SPSS
 
