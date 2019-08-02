@@ -43,7 +43,7 @@ Central South University (CSU), Changsha, China
 
 ## Work Experience
 
-Ernst & Young, *Conasultant Intern*, Shenzhen, China
+Ernst & Young, *Conasultant Intern*
 
 - Advised Hubei Changjiang Publishing Group Co., Ltd. and Tianwen Digital Media Technology (Beijing) Co., Ltd. on the enhancement in the terms of development strategy, information system, internal information transfer and investment management through collecting samples and interviews
 
