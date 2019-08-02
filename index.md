@@ -11,10 +11,17 @@ Address: No.932 South Lushan Road, Changsha, China
 ### Education
 
 Central South University (CSU), Changsha, China
-*Bachelor of Science in Statistics, **GPA: 3.77/4.0**
+
+- Bachelor of Science in Statistics, **GPA: 3.77/4.0**
 
 ### Research Experience
 
+1.Optimizing Regional Emergency Resource Allocation,*Reseach Assistant*
+
+- Calculated regional resource risk through fuzzy comprehensive evaluation method and Markov Random Field
+- Determined emergency resource supply points through combining two kinds of prototype based clustering algorithms: K means algorithm and Learning Vector Quantization algorithm
+- Optimized the resource allocation of each resource supply points using BP neural network
+- Implemented all modeling and algorithms in MATLAB
 
 ### Work Experience
 
