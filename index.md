@@ -12,16 +12,6 @@
   </tr>
 </table>
 
-### Personal Information
-
-Name: Yu Zhang
-
-E-mail: zhyuapply2019@yeah.net
-
-Tel: +86 18373152152
-
-Address: No.932 South Lushan Road, Changsha, China
-
 ### Education
 
 Central South University (CSU), Changsha, China
