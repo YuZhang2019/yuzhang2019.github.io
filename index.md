@@ -7,7 +7,7 @@
       <p><b>Address: No.932 South Lushan Road, Changsha, China</b></p>
     </td>
     <td width="25%">
-      <img src="/yuzhang.jpg" width="100%">      % 插入证件照代码
+      <img src='/yuzhang.JPG' width='100%'>
     </td>
   </tr>
 </table>
