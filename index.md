@@ -11,12 +11,12 @@ Address: No.932 South Lushan Road, Changsha, China
 ### Education
 
 Central South University (CSU), Changsha, China
+*Bachelor of Science in Statistics, **GPA: 3.77/4.0**
 
-   Bachelor of Science in Statistics, **GPA: 3.77/4.0**
+### Research Experience
 
-# Header 1
-## Header 2
-### Header 3
+
+### Work Experience
 
 - Bulleted
 - List
