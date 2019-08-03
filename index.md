@@ -43,13 +43,13 @@ Central South University (CSU), Changsha, China
 
 ## Work Experience
 
-Ernst & Young, *Conasultant Intern*
+Ernst & Young, *Consultant Intern*
 
 - Advised Hubei Changjiang Publishing Group Co., Ltd. and Tianwen Digital Media Technology (Beijing) Co., Ltd. on the enhancement in the terms of development strategy, information system, internal information transfer and investment management through collecting samples and interviews
 
 ## Selected Projects
 
-1.Data Mining Project: Application of Naive Bayesian Models
+1.Data Mining Project: Application of Naive Bayesian Model
 
 - Realized the learning and prediction of Naive Bayesian Models that based on maximum likelihood estimation and Bayesian estimation using R language, and applied to marriage problems
 
