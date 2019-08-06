@@ -27,7 +27,7 @@ Central South University (CSU), Changsha, China
 - Optimized the resource allocation of each resource supply points using BP neural network
 - Implemented all modeling and algorithms in MATLAB
 
-2.Research on Mobile Phone Recycling Management Model and Strategy, *Reseach Assistant*
+2.Waste Mobile Phone Recycling Management Model and Strategy, *Reseach Assistant*
 
 - Built a cost model to analyze the impact of the recycling system on the cost of the first stage recycling process
 - Designed primary level recycling sites and maximized revenue through static strategy game
