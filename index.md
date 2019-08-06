@@ -39,7 +39,6 @@ Central South University (CSU), Changsha, China
 - Determined the distribution law of acoustic emission source whose amplitude obey exponential distribution after attenuation using conditional probability and multiple integral
 - Deduced the formula between b value and observation distance using MLE and least square estimate
 - Compared acoustic emission test data with stochastic simulation in MATLAB to check the equation and the fitting results are excellent
-- Calculated the b value before and after amplitude attenuation with different methods and discussed the b value
 
 ## Work Experience
 
