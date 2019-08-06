@@ -29,7 +29,7 @@ Central South University (CSU), Changsha, China
 
 2.Waste Mobile Phone Recycling Management Model and Strategy, *Reseach Assistant*
 
-- Built a recycling quantity model to analyze the impact of recycling price and number of recycling site on the amount of recycling phone
+- Analyzed the relationship between recycling price, recycling site number and the amount of recycling mobile phone
 - Designed the cost model of recycling site construction and maximized revenue through static strategy game
 - Designed optimal transportation route based on the network map of city recycling sites using graph theory and genetic algorithm
 - Completed MATLAB programming and participated in writing and revising the paper
