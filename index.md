@@ -69,4 +69,4 @@ Ernst & Young, *Consultant Intern*
 
 Technical Skills: MATLAB, R, Python, Oracle, Lingo, Eviews, SPSS
 
-Interests: Yoga, Badminton, Dancing
+Interests: Dancing, Yoga, Cooking
