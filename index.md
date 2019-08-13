@@ -22,7 +22,7 @@ Central South University (CSU), Changsha, China
 
 1.Optimizing Regional Emergency Resource Allocation, *Reseach Assistant*
 
-- Calculated regional emergency risk through fuzzy comprehensive evaluation method and Markov Random Field
+- Calculated regional emergency risk through fuzzy comprehensive evaluation method
 - Determined emergency resource supply points through combining two kinds of prototype based clustering algorithms: K means algorithm and Learning Vector Quantization algorithm
 - Optimized the resource allocation of each resource supply points using BP neural network
 - Implemented all modeling and algorithms in MATLAB
@@ -36,8 +36,8 @@ Central South University (CSU), Changsha, China
 
 3.Distribution Law of Acoustic Emission Source after Attenuation, *Reseach Assistant*
 
-- Determined the distribution law of acoustic emission source whose amplitude obey exponential distribution after attenuation using conditional probability and multiple integral
-- Deduced the formula between b value and observation distance using MLE and least square estimate
+- Determined the distribution law of acoustic emission source, whose amplitude obey exponential distribution, after attenuation
+- Deduced the formula between b value and observation distance through maximum likelihood estimation and least square estimation
 - Compared acoustic emission test data with stochastic simulation in MATLAB to check the equation and the fitting results are excellent
 
 ## Work Experience
