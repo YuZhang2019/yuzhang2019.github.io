@@ -64,8 +64,8 @@ Ernst & Young, *Consultant Intern*
 
 - Established an ARMA model (using AIC and ESACF to determine model order) in R to identify, estimate, diagnose and predict the time series of urban employment population from 1952 to 2016
 
-## Skills And Others
+## Skills And Courses
 
 Technical Skills: MATLAB, R, Python, Oracle, Lingo, Eviews, SPSS
 
-Interests: Dancing, Yoga, Cooking
+Core Courses: Linear Algebra, Advanced Algebra, Mathematical Analysis, Operation Research, Probability, Regression Analysis, Space Analytic Geometry, Principle and Technology of Database, Mathematic and Physical Statistics, Stochastic Process, Multivariate Statistical Analysis, Time Series Analysis, Data Mining, Optimization Theory and Algorithm
