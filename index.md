@@ -20,21 +20,21 @@ Central South University (CSU), Changsha, China
 
 ## Research Experience
 
-1.Optimizing Regional Emergency Resource Allocation, *Reseach Assistant*
+1.Optimizing Regional Emergency Resource Allocation, *Research Assistant*
 
 - Calculated regional emergency risk through fuzzy comprehensive evaluation method
 - Determined emergency resource supply points through combining two kinds of prototype based clustering algorithms: K means algorithm and Learning Vector Quantization algorithm
 - Optimized the resource allocation of each resource supply points using BP neural network
 - Implemented all modeling and algorithms in MATLAB
 
-2.Waste Mobile Phone Recycling Management Model and Strategy, *Reseach Assistant*
+2.Waste Mobile Phone Recycling Management Model and Strategy, *Research Assistant*
 
 - Analyzed the relationship between recycling price, recycling site number and the amount of recycling mobile phone
 - Designed the cost model of recycling site construction and maximized revenue through static strategy game
 - Designed optimal transportation route based on the network map of city recycling sites using graph theory and genetic algorithm
 - Completed MATLAB programming and participated in writing and revising the paper
 
-3.Distribution Law of Acoustic Emission Source after Attenuation, *Reseach Assistant*
+3.Distribution Law of Acoustic Emission Source after Attenuation, *Research Assistant*
 
 - Determined the distribution law of acoustic emission source, whose amplitude obey exponential distribution, after attenuation
 - Deduced the formula between b value and observation distance through maximum likelihood estimation and least square estimation
