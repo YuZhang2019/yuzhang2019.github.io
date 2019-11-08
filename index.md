@@ -2,9 +2,9 @@
   <tr>
     <td width="75%">
       <h1>Name: Yu Zhang</h1>
-      <p><b>E-mail: yuzhang712@outlook.com</b></p>
+      <p><b>E-mail: yuzhang712@berkeley.edu</b></p>
       <p><b>Tel: +86 18373152152</b></p>
-      <p><b>Address: No.932 South Lushan Road, Changsha, China</b></p>
+      <p><b>Address: 1797 Shattuck Ave, Berkeley, San Francisco, CA</b></p>
     </td>
     <td width="25%">
       <img src='/yuzhang.JPG' width='100%'>
