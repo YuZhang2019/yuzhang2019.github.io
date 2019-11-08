@@ -50,11 +50,11 @@ Ernst & Young, *Consultant Intern*
 
 1.Data Mining Project: Application of Naive Bayesian Model
 
-- Realized the learning and prediction of Naive Bayesian Models that based on maximum likelihood estimation and Bayesian estimation using R language, and applied to marriage problems
+- Realized the learning and prediction of Naive Bayesian Models that based on maximum likelihood estimation and Bayesian estimation using R language, and applied to marriage problems on online-dating websites
 
 2.Multivariate Statistical Analysis & Regression Analysis
 
-- Conducted factor analysis, cluster analysis, linear discriminant analysis, and support vector machine using R for the construction and classification of urbanization level indicator system
+- Employed factor analysis, cluster analysis, Fisher discriminant analysis, and support vector machine to build an urbanization level indicator system in R, for the purpose of classification and prediction
 
 - Conducted partial least squares regression, LASSO regression in R to select over 700 independent variables
 
@@ -68,4 +68,4 @@ Ernst & Young, *Consultant Intern*
 
 Technical Skills: MATLAB, R, Python, Oracle, Lingo, Eviews, SPSS
 
-Core Courses: Linear Algebra, Advanced Algebra, Mathematical Analysis, Operation Research, Probability, Regression Analysis, Space Analytic Geometry, Principle and Technology of Database, Mathematic and Physical Statistics, Stochastic Process, Multivariate Statistical Analysis, Time Series Analysis, Data Mining, Optimization Theory and Algorithm
+Core Courses: Linear Algebra, Advanced Algebra, Mathematical Analysis, Operation Research, Probability, Regression Analysis, Space Analytic Geometry, Principle and Technology of Database, Mathematic and Physical Statistics, Stochastic Process, Multivariate Statistical Analysis, Time Series Analysis, Data Mining, Optimization Theory and Algorithm, Econometrics, Sampling Techniques
