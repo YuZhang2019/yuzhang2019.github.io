@@ -3,7 +3,7 @@
     <td width="75%">
       <h1>Name: Yu Zhang</h1>
       <p><b>E-mail: yuzhang712@berkeley.edu</b></p>
-      <p><b>Tel: +86 18373152152</b></p>
+      <p><b>Tel: +1 510-561-3084</b></p>
       <p><b>Address: 1797 Shattuck Ave, Berkeley, San Francisco, CA</b></p>
     </td>
     <td width="25%">
