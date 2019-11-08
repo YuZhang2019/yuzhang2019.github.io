@@ -20,21 +20,28 @@ Central South University (CSU), Changsha, China
 
 ## Research Experience
 
-1.Optimizing Regional Emergency Resource Allocation, *Research Assistant*
+1.Highly Adaptive Lasso, *Research Assistant*
+
+- Made the HAL function scalable through introducing tensor products
+- Applied lasso for the screening of covariates which combine main term functions and interaction functions
+- Constructed Kn basis indicator functions based on the selected K top terms and screen the covariates through lasso
+- Wrote R package and release it on GitHub
+
+2.Optimizing Regional Emergency Resource Allocation, *Research Assistant*
 
 - Calculated regional emergency risk through fuzzy comprehensive evaluation method
 - Determined emergency resource supply points through combining two kinds of prototype based clustering algorithms: K means algorithm and Learning Vector Quantization algorithm
 - Optimized the resource allocation of each resource supply points using BP neural network
 - Implemented all modeling and algorithms in MATLAB
 
-2.Waste Mobile Phone Recycling Management Model and Strategy, *Research Assistant*
+3.Waste Mobile Phone Recycling Management Model and Strategy, *Research Assistant*
 
 - Analyzed the relationship between recycling price, recycling site number and the amount of recycling mobile phone
 - Designed the cost model of recycling site construction and maximized revenue through static strategy game
 - Designed optimal transportation route based on the network map of city recycling sites using graph theory and genetic algorithm
 - Completed MATLAB programming and participated in writing and revising the paper
 
-3.Distribution Law of Acoustic Emission Source after Attenuation, *Research Assistant*
+4.Distribution Law of Acoustic Emission Source after Attenuation, *Research Assistant*
 
 - Determined the distribution law of acoustic emission source, whose amplitude obey exponential distribution, after attenuation
 - Deduced the formula between b value and observation distance through maximum likelihood estimation and least square estimation
@@ -44,7 +51,7 @@ Central South University (CSU), Changsha, China
 
 Ernst & Young, *Consultant Intern*
 
-- Advised Hubei Changjiang Publishing Group Co., Ltd. and Tianwen Digital Media Technology (Beijing) Co., Ltd. on the enhancement in the terms of development strategy, information system, internal information transfer and investment management through collecting samples and interviews
+- Advised Hubei Changjiang Publishing Group Co., Ltd. and Tianwen Digital Media Technology (Beijing) Co., Ltd. on the enhancement of development strategy, information system, internal information transfer and investment management and compile risk manual through collecting samples and interviews
 
 ## Selected Projects
 
