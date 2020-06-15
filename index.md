@@ -54,7 +54,7 @@ Advisor: **Wei He**, Lecturer, Department of Mathematics and Applied Mathematics
 
 ## Publications
 
-- Optimization of regional discarded mobile phone recycling system based on existing network of physical selling stores, to be submitted to the *Journal of Industrial and Management Optimization*(2nd author)
+- Optimization of regional discarded mobile phone recycling system based on existing network of physical selling stores, to be submitted to the *Journal of Industrial and Management Optimization* (2nd author)
 
 ## Work Experience
 Shuding Intelligent Technology, *NLP Algorithm Engineer Intern*
