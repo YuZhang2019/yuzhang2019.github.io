@@ -61,8 +61,8 @@ Advisor: **Wei He**, Lecturer, Department of Mathematics and Applied Mathematics
 ## Work Experience
 Peng Cheng Laboratory, *Research Intern*
 
-- Quantified low-battery anxiety (LBA) of mobile users and analyzed users’ interaction with devices
-- Partitioned mobile users into different groups based on their LBA degree and conducted group profiling
+- Quantified low-battery anxiety of mobile users and analyzed users’ interaction with devices
+- Clustered mobile users into different groups based on their low-battery anxiety degree and conducted group profiling
 
 Shuding Intelligent Technology, *NLP Algorithm Engineer Intern*
 
