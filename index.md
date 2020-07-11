@@ -54,7 +54,7 @@ Advisor: **Wei He**, Lecturer, Department of Mathematics and Applied Mathematics
 
 ## Publications
 
-- Mobile User Profiling based on Low-Battery Anxiety:\\An Empirical Study, to be submitted to the *ACM International Joint Conference on Pervasive and Ubiquitous Computing* (1st author)
+- Mobile User Profiling based on Low-Battery Anxiety: An Empirical Study, to be submitted to the *ACM International Joint Conference on Pervasive and Ubiquitous Computing* (1st author)
 
 - Optimization of regional discarded mobile phone recycling system based on existing network of physical selling stores, to be submitted to the *Journal of Industrial and Management Optimization* (2nd author)
 
