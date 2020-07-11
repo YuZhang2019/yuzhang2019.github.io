@@ -54,9 +54,16 @@ Advisor: **Wei He**, Lecturer, Department of Mathematics and Applied Mathematics
 
 ## Publications
 
+- Mobile User Profiling based on Low-Battery Anxiety:\\An Empirical Study, to be submitted to the *ACM International Joint Conference on Pervasive and Ubiquitous Computing* (1st author)
+
 - Optimization of regional discarded mobile phone recycling system based on existing network of physical selling stores, to be submitted to the *Journal of Industrial and Management Optimization* (2nd author)
 
 ## Work Experience
+Peng Cheng Laboratory, *Research Intern*
+
+- Quantified low-battery anxiety (LBA) of mobile users and analyzed users’ interaction with devices
+- Partitioned mobile users into different groups based on their LBA degree and conducted group profiling
+
 Shuding Intelligent Technology, *NLP Algorithm Engineer Intern*
 
 - Applied Python regularization and Bert-BiLSTM-CRF model to extract valuable information of police transcripts and determined the money flow based on the text segmentation and part-of-speech tags obtained by ltp module
